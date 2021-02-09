@@ -2,7 +2,6 @@
   <div class="container">
     <div>
       <Logo />
-      <Hoge />
       <h1 class="title">app</h1>
       <div class="links">
         <a
@@ -28,7 +27,6 @@
 
 <script lang="ts">
 import Vue from 'vue'
-
 export default Vue.extend({})
 </script>
 
